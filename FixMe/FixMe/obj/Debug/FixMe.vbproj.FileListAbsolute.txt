@@ -1,0 +1,10 @@
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\bin\Debug\FixMe.exe.config
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\bin\Debug\FixMe.exe
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\bin\Debug\FixMe.pdb
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\bin\Debug\FixMe.xml
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.vbprojResolveAssemblyReference.cache
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.Resources.resources
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.vbproj.GenerateResource.Cache
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.exe
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.xml
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.pdb
