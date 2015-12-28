@@ -8,3 +8,4 @@ C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.vbproj.Generate
 C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.exe
 C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.xml
 C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.pdb
+C:\Users\Sith\Documents\GitHub\fixme\FixMe\FixMe\obj\Debug\FixMe.Form1.resources
